@@ -1,0 +1,24 @@
+.box p{
+    padding-top: 40%;
+    font-size: 30px;
+}
+
+.container{
+    margin: 50px auto;
+    text-align: center;
+}
+
+.box{
+    margin: 20px auto;
+    width: 200px;
+    height: 200px;
+    color: #fff;
+}
+
+.red_color{
+    background-color: #BE1D15;
+}
+
+.green_color{
+    background-color: #0F9747;
+}
